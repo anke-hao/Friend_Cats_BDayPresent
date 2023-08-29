@@ -24,8 +24,9 @@ The game was built in Unity2D, with the use of C# scripts for the following:
 - managing the cats' movements and alertness stages (CatController)
 - displaying a dynamic breath meter/progress bar for the box exercise (BreathMeter)
 
-## Visual Assets
-All the visual assets, including the playable character and all the environmental assets, were sourced from [Pop Shop Packs's](https://pop-shop-packs.itch.io/) [Cats Pixel Asset Pack](https://pop-shop-packs.itch.io/cats-pixel-asset-pack) and [kayillustrations's](https://kayillustrations.itch.io/) [Pixel Kitty Living Room](https://kayillustrations.itch.io/pixel-living-room-assets), which are licensed for personal and commercial use.
+## Visual and Audio Assets
+- All the visual assets, including the playable character and all the environmental assets, were sourced from [Pop Shop Packs's](https://pop-shop-packs.itch.io/) [Cats Pixel Asset Pack](https://pop-shop-packs.itch.io/cats-pixel-asset-pack) and [kayillustrations's](https://kayillustrations.itch.io/) [Pixel Kitty Living Room](https://kayillustrations.itch.io/pixel-living-room-assets), which are licensed for personal and commercial use.
+- The background music was sourced from [TallBeard Studios's](https://tallbeard.itch.io/) [Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle).
   
 ## Future Additions/Bugfixes
 ### Additions/Revisions
