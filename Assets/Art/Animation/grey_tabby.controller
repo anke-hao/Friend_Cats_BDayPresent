@@ -38,7 +38,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: greysleep
+  m_Name: catSleep
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -96,13 +96,13 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -9056700903664729658}
-    m_Position: {x: 670, y: 310, z: 0}
+    m_Position: {x: 390, y: 10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7026498659897181439}
-    m_Position: {x: 850, y: 390, z: 0}
+    m_Position: {x: 560, y: 120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5764263490235665994}
-    m_Position: {x: 340, y: 320, z: 0}
+    m_Position: {x: 290, y: 120, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -207,7 +207,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: greysleepidle
+  m_Name: catSleepIdle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
