@@ -6,6 +6,8 @@
 ## Introduction
 Welcome to the gamified interactive experience I made for my friend's birthday! In this experience, you engage in a guided box breathing exercise to lull the cats on-screen to sleep. 
 
+The Friend Birthday Present Series is a series of short games I built, each over the course of 3-4 days, as birthday gifts for friends who were living in separate locations from me at the time of their birthday.
+
 ## How To Play
 ### Basic Commands
 Follow the instructions on screen to breathe in, hold, and breathe out. Pace yourself alongside the progress bar!
