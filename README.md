@@ -1,10 +1,10 @@
 # Cat Cooldown (Friend Birthday Present Series)
 
-<img align="left" src="https://github.com/anke-hao/Friend_Cats_BDayPresent/blob/main/Screenshots/In-Game%20Screenshot%201.png" style="height: 300px;">
+<img align="left" src="https://github.com/anke-hao/Friend_Cats_BDayPresent/blob/main/Screenshots/In-Game%20Screenshot%201.png" style="height: 225px;">
 
 
 ## Introduction
-Welcome to the gamified interactive experience I made for my friend's birthday! In this experience, you engage in a guided box breathing exercise to lull the cats on-screen to sleep. 
+Welcome to [Cat Cooldown](https://ankehao.itch.io/cat-cooldown), the gamified interactive experience I made for my friend's birthday! In this experience, you engage in a guided box breathing exercise to lull the cats on-screen to sleep. 
 
 The Friend Birthday Present Series is a series of short games I built, each over the course of 3-4 days, as birthday gifts for friends who were living in separate locations from me at the time of their birthday.
 
